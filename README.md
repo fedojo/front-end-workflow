@@ -3,24 +3,31 @@ Skills, libraries, frameworks, tools of Front End Developer
 
 ## Skills
 ###HTML5
-Difference between ID and Class
-New tags in HTML5
-Block elements
-Inline elements
+<ul>
+<li>Difference between ID and Class</li>
+<li>New tags in HTML5</li>
+<li>Block elements</li>
+<li>Inline elements</li>
+</ul>
 
 ###CSS3
-Creation of selectors
-Box model
-Floating
-Flex box
-Clearfix
+<ul>
+<li>Creation of selectors</li>
+<li>Box model</li>
+<li>Floating</li>
+<li>Flex box</li>
+<li>Clearfix</li>
+</ul>
 
 ###JavaScript
 
 
 ## Tools
 ###Automatization tools
-Grunt.js
-Gulp.js
+<ul>
+<li>Grunt.js</li>
+<li>Gulp.js</li>
+</ul>
+
 ###Scaffolding tools
 Yeoman
