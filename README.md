@@ -8,20 +8,7 @@ Skills, libraries, frameworks, tools of Front End Developer
 <li>New tags in HTML5</li>
 <li>Block elements</li>
 <li>Inline elements</li>
-<li>Main navigation structure</li>
-<pre><code>
-<!-- ```html -->
-<nav>
-  <ul>
-    <li>
-      <a href="">Home</a>
-      <a href="">About</a>
-      <a href="">Contact</a>
-    </li>
-  </ul>
-</nav>
-<!-- ``` -->
-</code></pre>
+<li>Navigation structure</li>
 </ul>
 
 ####HTML5 SEO Fundamentals
