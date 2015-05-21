@@ -40,7 +40,7 @@ Skills, libraries, frameworks, tools of Front End Developer
 <ul>
 <li>How to get element from DOM</li>
 <li>Adding event listeners</li>
-<li></li>
+<li>debounce / throttle</li>
 </ul>
 
 #### JavaScript HTML5 API's
@@ -60,7 +60,8 @@ Skills, libraries, frameworks, tools of Front End Developer
 <ul>
 <li>get element ($(selector))</li>
 <li>get element in element ($(selector).find(selector))</li>
-<li></li>
+<li>add EventListeners ($(selector).on())</li>
+<li>remove EventListeners ($(selector).off())</li>
 </ul>
 
 ##Frameworks
