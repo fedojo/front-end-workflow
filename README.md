@@ -64,6 +64,11 @@ Skills, libraries, frameworks, tools of Front End Developer
 <li>remove EventListeners ($(selector).off())</li>
 </ul>
 
+###jQuery 
+<ul>
+<li>https://github.com/AllThingsSmitty/jquery-your-mom-should-know</li>
+</ul>
+
 ##Frameworks
 ###CSS/JS Frameworks
 <ul>
