@@ -68,6 +68,7 @@ Skills, libraries, frameworks, tools of Front End Developer
 <ul>
 <li>https://github.com/AllThingsSmitty/jquery-your-mom-should-know</li>
 <li>http://youmightnotneedjquery.com/</li>
+<li>http://javarevisited.blogspot.sg/2015/02/top-16-jquery-interview-questions.html</li>
 </ul>
 
 ##Frameworks
