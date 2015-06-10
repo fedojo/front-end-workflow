@@ -43,6 +43,11 @@ Skills, libraries, frameworks, tools of Front End Developer
 <li>debounce / throttle</li>
 </ul>
 
+###JavaScript interesting links
+<ul>
+<li>http://conceptf1.blogspot.com/2013/11/best-resources-to-learn-javascript.html</li>
+</ul>
+
 #### JavaScript HTML5 API's
 <ul>
 <li>Geolocation</li>
