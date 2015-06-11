@@ -40,7 +40,7 @@ Skills, libraries, frameworks, tools of Front End Developer
 <ul>
 <li>How to get element from DOM</li>
 <li>Adding event listeners</li>
-<li>debounce / throttle</li>
+<li>debounce / throttle and differences between them https://css-tricks.com/the-difference-between-throttling-and-debouncing/</li>
 </ul>
 
 ###JavaScript interesting links
