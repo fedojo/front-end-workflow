@@ -9,6 +9,9 @@ Skills, libraries, frameworks, tools of Front End Developer
 <li>Block elements</li>
 <li>Inline elements</li>
 <li>Navigation structure</li>
+<li>Placeholder (in input)</li>
+<li>Data attribute</li>
+<li></li>
 </ul>
 
 ####HTML5 SEO Fundamentals
@@ -22,6 +25,12 @@ Skills, libraries, frameworks, tools of Front End Developer
 ###CSS3
 <ul>
 <li>Creation of selectors</li>
+<ul>
+<li>SimpleMobileMenu selectors by element name(body, div, span)</li>
+<li>Selectors by od and classes (.class_name)</li>
+<li>Nested selectors</li>
+<li>Input selectors</li>
+</ul>
 <li>Box model</li>
 <li>Floating</li>
 <li>Flex box</li>
